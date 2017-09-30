@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C___Programming_Language"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/xl/c++/C++ Programming Language/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/xl/c++/C++ Programming Language/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C___Programming_Language">
+				<Option output="E:/xl/c++/C++ Programming Language/cmake-build-debug/C___Programming_Language.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/xl/c++/C++ Programming Language/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 C___Programming_Language"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C___Programming_Language/fast">
+				<Option output="E:/xl/c++/C++ Programming Language/cmake-build-debug/C___Programming_Language.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/xl/c++/C++ Programming Language/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 C___Programming_Language/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/xl/c++/C++ Programming Language/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;E:/xl/c++/C++ Programming Language/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter16/16.2-IntroductionOfClass.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter16/16.3-ConcreteClass.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter17/17.2-Constructor.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter17/17.3-InitializaOfObject.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter17/17.4-InitializationOfMemberAndBaseClass.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter17/17.5-copyAndMove.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter2/2.2-FoudmentalConcept.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter2/2.3-User-DefinedType.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter2/2.4-Modularization.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter3/3.2-Class.cpp">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter3/3.2-Class.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter3/3.3-Copy&amp;&amp;Move.cpp">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter3/3.4-Template.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter4/4.1-StandardHeadFile.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter4/4.2-String.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter4/4.3-IOStream.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter4/4.4-Container.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter4/4.5-Algorthm.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter5/5.4-SmallTool.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter5/5.6-MathComputing.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/Chapter7/7.1-Pointer.h">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/main.cpp">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/test.cpp">
+			<Option target="C___Programming_Language"/>
+		</Unit>
+		<Unit filename="E:/xl/c++/C++ Programming Language/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

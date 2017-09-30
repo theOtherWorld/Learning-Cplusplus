@@ -1,0 +1,7 @@
+
+Please will you and everyone else note that the correct way to read a text file does NOT require the use of the eof(),
+good(), bad() or indifferent() functions (OK, I made the last one up).
+The same is true in C (with fgets(), feof() et al).
+Basically, these flags will only be set AFTER you have attempted to read something, with a function like getline().
+It is much simpler and more likely to be correct to test that read functions,
+like getline() have actually read something directly.
